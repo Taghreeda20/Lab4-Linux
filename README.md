@@ -22,7 +22,7 @@
     sudo apt install apache2 -y
     sudo systemctl status apache2
     sudo nano /var/www/html/index.html
-    ![image](https://github.com/user-attachments/assets/04e1d4ae-f40d-448e-8d49-9c99b0fb10fe)
+![image](https://github.com/user-attachments/assets/04e1d4ae-f40d-448e-8d49-9c99b0fb10fe)
 
 
 5-
