@@ -25,5 +25,12 @@
 ![image](https://github.com/user-attachments/assets/04e1d4ae-f40d-448e-8d49-9c99b0fb10fe)
 
 
-5-
+5- Check if sshd (SSH service) is running. If not, start and enable it : 
+
+    sudo systemctl status ssh
+    sudo systemctl enable ssh
+![image](https://github.com/user-attachments/assets/42134854-d898-43cf-a665-0a11269742ac)
+
+
+
 
