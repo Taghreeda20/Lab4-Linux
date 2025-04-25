@@ -83,9 +83,7 @@
 
     curl https://www.google.com -o google.html
 
-17- Create a new VM (e.g., VirtualBox/Cloud instance), add a user to the sudoers group, and run apt update && apt upgrade : 
 
-    sudo adduser user2025
 
 
 
